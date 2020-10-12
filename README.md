@@ -1,16 +1,12 @@
-# covid19_flutter
+# Turkey Coronavirus Table with Flutter App
 
-A new Flutter project.
+This app contains Turkish Coronavirus Table daily. 
+Used Api : Turkish Republic Health Ministery Daily Coronavirus API
+This project contains MVVM (Model- View - ModelView).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![HomePage](https://i.ibb.co/Vx2w8Zy/homepage.png "Home Screen")
+![SymptomsPage](https://i.ibb.co/k4Nnq1J/symptompspage.png "Symptomps Page")
+![PreventPage](https://i.ibb.co/JBZStNj/preventpage.png "Optional title")
+![ContagionPage](https://i.ibb.co/gDJQZ1Q/contagionpage.png "Optional title")
+![DetailsPage](https://i.ibb.co/QNnV1zj/detailspage.png "Optional title")
