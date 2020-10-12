@@ -5,7 +5,6 @@ Used Api : Turkish Republic Health Ministery Daily Coronavirus API
 This project contains MVVM (Model- View - ModelView).
 
 ## Screenshots
-Home Page
 ![HomePage](https://i.ibb.co/Vx2w8Zy/homepage.png "Home Screen")
 
 
